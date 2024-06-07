@@ -1,2 +1,4 @@
 env/
-__pycach__/
+**/__pycache__/
+__pycache__/
+demo/*.mp4
