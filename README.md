@@ -9,6 +9,10 @@ A simple Pong game built with Pygame. The game features two paddles and a ball. 
 
 Github repo [link](https://github.com/codemanbh/pong)
 
+## Author
+
+- [Ahmed Yusuf Khamdan](https://github.com/codemanbh)
+
 ## Requirements
 
 - Python 3.x
