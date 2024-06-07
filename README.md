@@ -10,8 +10,14 @@ A simple Pong game built with Pygame. The game features two paddles and a ball. 
 
 ## How to downloud and play
 
-- downloud [link](https://github.com/codemanbh/pong)
+- Downloud from the [link](https://github.com/codemanbh/pong)
 - After downlouding, Just click on `pong.exe` to start the game
+
+## Controls
+
+- Start the gameplay `Enter button`
+- Player (Left Paddle): `W` (up), `S` (down)
+- Play again `Enter button`
 
 ## Author
 
@@ -37,21 +43,7 @@ A simple Pong game built with Pygame. The game features two paddles and a ball. 
     pip install -r requirements.txt
    ```
 
-## How to Play
-
-1. Run the game:
-   ```sh
-   python main.pyw
-   ```
-
-2. Controls:
-   - Start the gameplay `Enter button`
-   - Player (Left Paddle): `W` (up), `S` (down)
-   - Play again `Enter button`
-
-
 ## Project Structure
-
 
 ```
 pong/
