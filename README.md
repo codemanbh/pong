@@ -7,7 +7,11 @@ A simple Pong game built with Pygame. The game features two paddles and a ball. 
 ## Gameplay
 ![](demo/gameplay.gif)
 
-Github repo [link](https://github.com/codemanbh/pong)
+
+## How to downloud and play
+
+- downloud link [link](https://github.com/codemanbh/pong)
+- After downlouding, Just click on `pong.exe` to start the game
 
 ## Author
 
