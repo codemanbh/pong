@@ -14,7 +14,7 @@ background.fill("Black")
 clock = pygame.time.Clock()
 class text:
     def __init__(self , content , size , hight = h/4 , width =  w/2):
-        decay_font = pygame.font.Font('Minecraft.ttf', size)
+        decay_font = pygame.font.Font('assets/fonts/Minecraft.ttf', size)
         self.surf = decay_font.render(str(content) , True , 'white')
         self.ruct = self.surf
         self.rect = self.surf.get_rect()

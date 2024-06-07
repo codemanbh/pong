@@ -1,6 +1,6 @@
 import pygame , random 
 from math import cos , sin
-from screen import w ,h
+from components.screen import w ,h
 
 class Ball:
     def __init__(self):

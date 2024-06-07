@@ -1,8 +1,8 @@
 import pygame , random
-from screen import screen , text , close , w, h , clock , background  , text_1 , text_2 , text_3
-from ball import ball , Ball
-from player import  p1 , p2
-from line import line1
+from components.screen import screen , text , close , w, h , clock , background  , text_1 , text_2 , text_3
+from components.ball import ball , Ball
+from components.player import  p1 , p2
+from components.line import line1
 
 running = True
 firstStart = True

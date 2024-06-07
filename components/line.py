@@ -1,5 +1,5 @@
 import pygame , random
-from screen import w , h
+from components.screen import w , h
 
 class Line:
     def __init__(self ):
